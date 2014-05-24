@@ -4,7 +4,7 @@
 	}
 
 	h1 {
-	color: blue
+	color: blue;
 	}
 
 	p {
@@ -16,4 +16,9 @@
 	.secondary {
 	background: #222;
 	color: #999;
+	}
+
+	h3 {
+	color: blue;
+	font-family: verdana;
 	}
