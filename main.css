@@ -1,0 +1,19 @@
+	body {
+	background:black;
+	font-family: verdana;
+	}
+
+	h1 {
+	color: blue
+	}
+
+	p {
+	padding: 8px 0px;
+	background: black;
+	color: white;
+	}
+
+	.secondary {
+	background: #222;
+	color: #999;
+	}
