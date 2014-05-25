@@ -1,6 +1,7 @@
 	body {
 	background:black;
 	font-family: verdana;
+	margin: 0;
 	}
 
 	h1 {
@@ -24,5 +25,26 @@
 	}
 
 	a {
+	color: white;
+	}
+
+	header {
+	background: red;
+	color: black;
+	}
+
+	nav ul {
+	margin: 0;
+	}
+
+	nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	background: orange;
+	color: white;
+	width: 33%;
+	}
+
+	nav ul li a {
 	color: white;
 	}
